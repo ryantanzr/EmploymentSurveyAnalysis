@@ -1,7 +1,3 @@
--- Tablespace: pg_global
-
--- DROP TABLESPACE IF EXISTS pg_global;
-
 CREATE DATABASE "graduate_employment_survey"
 	WITH
 	OWNER = postgres
